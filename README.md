@@ -11,9 +11,18 @@ Welcome to my personal portfolio website showcasing my work, projects, and skill
 - Contact form
 
 ## 🚀 Tech Stack
-- Next.js 15
-- Tailwind CSS
-- TypeScript
-- Vercel (deployment)
+- **Next.js 15** with Turbopack
+- **React 19** & **React DOM**
+- **Tailwind CSS 4** + tailwindcss-animate
+- **Radix UI** (Dropdown, Avatar, Dialog, Navigation)
+- **Lucide React Icons**
+- **NextAuth.js v5** with Prisma + MongoDB Adapter
+- **Prisma ORM** & **MongoDB**
+- **Zod** for schema validation
+- **React Query (TanStack Query v5)**
+- **Stripe** & **use-shopping-cart** for e-commerce
+- **Crypto-JS** & **libsodium-wrappers** for encryption
+- **TypeScript 5**
+- **Vercel** for deployment
 
 Feel free to explore and connect!
